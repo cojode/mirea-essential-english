@@ -2,7 +2,8 @@
 This file includes only hardcore essential english
 *with love from cojode&MercMarine <3*
 ## Table of Contents
-0. [Legend](#legend)
+**0. [Legend](#legend)**
+:-----:
 1. [The History of Computers](#the-history-of-computers)
 2. [Types of Computers and their Use](#types-of-computers-and-their-use)
 3. [Computer hardware](#computer-hardware)
@@ -12,7 +13,7 @@ This file includes only hardcore essential english
 7. [Networks](#networks)
 8. [The Internet](#the-internet)
 9. [Search engines](#search-engines)
-10. [Programming languages](#programming-languages) 
+10. [Programming languages](#programming-languages)
 11. [Web design](#web-design)
 12. [Malware and cybercrime](#malware-and-cybercrime)
 13. [Data security](#data-security)
