@@ -2,8 +2,7 @@
 This file includes only hardcore essential english
 *with love from cojode&MercMarine <3*
 ## Table of Contents
-**0. [Legend](#legend)**
-:-----:
+0. [Legend](#legend)
 1. [The History of Computers](#the-history-of-computers)
 2. [Types of Computers and their Use](#types-of-computers-and-their-use)
 3. [Computer hardware](#computer-hardware)
