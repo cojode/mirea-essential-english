@@ -188,7 +188,7 @@ with use of vacuum tubes, transistors, integrated curcuits, microprocessors and 
  
 - What is the difference between write-through cache and write-back cache?
 >**write-through**: data is updated in cache and main memory at the same time
->**write-back**: data is written in both the cache and main memory (не ебу в чем разница, там определения буквально по тексту)
+>**write-back**: data is written in both the cache and main memory
 
 - Which memory is more expensive and takes up more space, DRAM or SRAM?
 >SRAM, Relatively less expensive RAM is DRAM, due to the use of one transistor and one capacitor in each cell.
@@ -327,8 +327,11 @@ types:
 ><mark>7. Physical</mark>
 
 **gateway** - шлюз, межсетевой шлюз
+
 **peer-to-peer** - одноранговая сеть
+
 **bandwidth** - пропускная способность
+
 **node** - узел
 
 ## **THE INTERNET**
@@ -351,12 +354,19 @@ types:
 > There are DSL, ADSL, SDSL, VDSL, cable, fiber-optic and Dial-up wired connection types
 
 **coaxial cable** - коаксиальный кабель
-**satellite connection** – спутниковая связь		
+
+**satellite connection** – спутниковая связь
+
 **copper twisted-pair cable** – медная витая пара
+
 **Digital Subscriber Line (DSL)** - цифровая абонентская линия
+
 **ADSL** – Asymmetric Digital Subscriber Line- Ассиметричная цифровая абонентская линия
+
 **SDSL** – symmetric Digital Subscriber Line- Симметричная цифровая абонентская линия
+
 **VDSL (Very high bit rate DSL)** - cкоростная цифровая абонентская линия
+
 **bandwidth** - пропускная способность (ширина полосы пропускания)
 
 ## **SEARCH ENGINES**
@@ -381,10 +391,15 @@ types:
 > They combine results from various search engines into 1 result.
 
 **indexing** - индексация
+
 **ranking** – ранжирование
+
 **crawling** – сканирование, поиск
+
 **search bar** – строка поиска
+
 **search query** – поисковый запрос
+
 **human-powered directories** – каталоги, управляемые человеком
 
 ## **PROGRAMMING LANGUAGES**
@@ -407,12 +422,19 @@ types:
 > FORTRAN, Lisp
 
 **machine code** – машинный код
+
 **source code** – исходный код
+
 **object code** – объектный код
+
 **binary code** – двоичный код
+
 **low-level language** – низкоуровневый язык
+
 **high-level language** – высокоуровневый язык	
-**artificial intelligence** - искусственный интеллект;
+
+**artificial intelligence** - искусственный интеллект
+
 **object-oriented programming (OOP)** - ООП, объектно-ориентированное программирование
 
 ## **WEB DESIGN**
@@ -439,9 +461,13 @@ types:
 >6. Graphics.
 
 **HTML (Hyper Text Markup Language)** - язык разметки гипертекста
-**backend development** - разработка серверной хуйни	
+
+**backend development** - разработка серверной хуйни
+
 **frontend development** - разработка внешней хуйни
+
 **Uniform Resource Locator (URL)** - адрес ресурса в сети Интернет
+
 **File Transfer Protocol (FTP)** - протокол передачи файлов
 
 ## **MALWARE AND CYBERCRIME**
@@ -487,13 +513,20 @@ types:
 >carefully downloading files from the Web
 >update your anti-virus software
 
-**trojan** -Троянский конь
+**trojan** - троянский конь
+
 **spyware** - шпионские программы
+
 **trigger** – запуск, активация вируса
+
 **adware** - рекламное ПО
+
 **malware** – вредоносное ПО
+
 **worm** - червь
+
 **keylogger** -клавиатурный шпион, клавиатурный перехватчик
+
 **phishing** - фишинг
 
 ##  DATA SECURITY
@@ -520,10 +553,14 @@ types:
 
 
 **surge protector** – сетевой фильтр
+
 **backup** - резервное копирование
+
 **firewall** - брандмауер
-**incremental backup** - добавочное резервное копирование (копируются только файлы, созданные или измененные с момента последнего резервного копирования )
-**differential backup**- разностное или частичное резервное копирование, (выполняет копирование файлов, созданных или измененных с момента обычного (или добавочного) архивирования).
+
+**incremental backup** - добавочное резервное копирование (копируются только файлы, созданные или измененные с момента последнего резервного копирования)
+
+**differential backup** - разностное или частичное резервное копирование, (выполняет копирование файлов, созданных или измененных с момента обычного (или добавочного) архивирования)
 
 ## **FUTURE IN IT**
 - In what way is an artificial neural network similar to biological brain?
@@ -542,16 +579,27 @@ types:
 >User ID (User identifier).
 
 **сompatibility** - совместимость
+
 **accomplish many tasks** - решать множество задач
+
 **sensitive data** - конфиденциальные данные (совершенно секретные данные или представляющие коммерческую тайну)
+
 **CGI (Computer-Generated Image)** - изображения, формируемые методами компьютерной графики; изображения, формируемые с помощью компьютера; интерфейс компьютерной графики
+
 **face recognition** - распознавание лиц
+
 **artificial Intelligence** - искусственный интеллект
+
 **interconnected nodes** - взаимосвязанные узлы
+
 **accomplish many tasks** - решатьмножество задач
+
 **unique identifiers (UIDs)** - уникальный идентификатор
-**fully connected neural network** -полносвязные нейросети
+
+**fully connected neural network** - полносвязные нейросети
+
 **Internet of Things** - технология интернета вещей
+
 **backpropagation** – нейронная сеть с алгоритмом обратного распространения ошибки, обратное распространение
 
 ## **PROFESSIONS IN IT**
@@ -578,13 +626,23 @@ types:
 data scientist – аналитик данных
 
 **tester** - тестировщик
+
 **backend developer** – backendразработчик
+
 **frontend developer** – frontend разработчик
+
 **database administrator** – администратор базы данных
+
 **software engineer** – инженер программного обеспечения
-**full-stack developer** - full-stackразработчик
+
+**full-stack developer** - full-stack разработчик
+
 **network engineer** – сетевой инженер
+
 **system administrator** – системный администратор
+
 **hardware engineer** – инженер по аппаратному обеспечению
-**cloud architect**– архитектор облачных технологий
+
+**cloud architect** – архитектор облачных технологий
+
 **security specialist** – специалист по вопросам безопасности
