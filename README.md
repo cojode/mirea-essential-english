@@ -25,9 +25,13 @@ This file includes only hardcore essential english
 > Simple and comprehensive answer with usage of provided vocabulary
 
 **russian translation** - перевод на русский
+
 **Abbreviation Translation (AT)** - перевод аббревиатуры
+
 **SMKA (Something that is Most often Known as an Abbreviation)** - что-то, что чаще всего известно в виде аббревиатуры
+
 **translation/synonym** - перевод/синоним
+
 <mark>**very important translation** - очень важный перевод</mark>
 
 
@@ -64,13 +68,21 @@ with use of vacuum tubes, transistors, integrated curcuits, microprocessors and 
 >Vacuum tubes, transistors, integrated curcuits, microprocessors and artificial intelligence
 
 **vacuum tube** - электронные лампы
+
 **computing power** - вычислительная мощность
+
 **integrated circuit** - интегральные схемы
+
 **power consumption** - энергопотребление
+
 **major breakthrough** - основной прорыв
+
 **maintenance** - сопровождение, обслуживание
+
 **ALU (arithmetic logic unit)** - арифметическо-логическое устройство
+
 **semiconductor** - полупроводник
+
 **сapacitor** – конденсатор
 
 
@@ -131,22 +143,39 @@ with use of vacuum tubes, transistors, integrated curcuits, microprocessors and 
 >electrical channels which allow devices inside the computer to communicate with each other
 
 **сlock speed** - тактовая частота
+
 <mark>**volatile** - энергозависимый (ОЗУ)</mark>
+
 <mark>**non-volatile** - энергонезависимый</mark>
+
 **HDD (hard disk drive)** - жесткий диск
+
 **hardware** - аппаратное техническое обеспечение
+
 **front side bus** - системная шина
-**peripherals** - периферийное (клава, мышка, вся хуйня)
+
+**peripherals** - периферийное 
+
 **ROM (read-only memory)** - постоянное запоминающее устройство
+
 **motherboard** - материнская плата
+
 **performance** – производительность
+
 **bus** - шина
+
 **flash drive (Memory Stick)** - флешка
+
 **magnetic tape** - магнитная лента
+
 **circuit board** - плата
+
 **system clock** - системный тактовый генератор
+
 **software** - программное обеспечение
+
 **CPU (central processing unit)** - центральный процессор (ЦП)
+
 **RAM (random access memory)** - оперативная память
 
 ## **PRIMARY STORAGE**
@@ -165,11 +194,17 @@ with use of vacuum tubes, transistors, integrated curcuits, microprocessors and 
 >SRAM, Relatively less expensive RAM is DRAM, due to the use of one transistor and one capacitor in each cell.
 
 **primary storage** - основное запоминающее устройство
+
 **internal storage device** - внутреннее устройство хранения
+
 **delay/latency** - задержка (сигнала)
+
 **erasable** - перезаписываемый, допускающий возможность стирания
+
 **semiconductor technology** - полупроводниковая технология
+
 **Static Random Access Memory (SRAM)** - статичная оперативная память
+
 **Dynamic Random Access Memory (DRAM)** - динамическая оперативная память
 
 ## **SECONDARY STORAGE**
@@ -198,12 +233,19 @@ with use of vacuum tubes, transistors, integrated curcuits, microprocessors and 
 >24/7 Availability
 
 **solid state drive (SSD)** – твердотельный накопитель
+
 **hard disk drive (HDD)** – жесткий диск
+
 **fragile** – хрупкий
+
 **floppy disk** - дискета
+
 **partition** - раздел на жёстком диске
+
 **memory capacity** – объем памяти
+
 **CD (Compact Disc)** - CD диск
+
 **DVD (Digital Video Disc)** - DVD диск
 
 ## SOFTWARE
